@@ -44,4 +44,4 @@ Welcome to the **Number Guessing Game**! This is a simple game where you have to
 2. Run the `Main` class.
 
 ## Project Page URL
-[Project Repository]([<repository-url>](https://github.com/DiegoVSC42/Number-Guessing-Game))
+[Roadmap Project](https://roadmap.sh/projects/number-guessing-game)
